@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="239.78" height="82.098" viewBox="0 0 239.78 82.098">
+  <g id="Logo" transform="translate(-96.667 -32.209)">
+    <text id="DIHOC_FACTOTUM" data-name="DIHOC FACTOTUM" transform="translate(96.667 53.307)" fill="#0f7173" font-size="23" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="25">DIHOC FACTOTUM</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M5.106,0c2.774-.018,5.012,3.79,5,8.506l-.062,24.238C10.032,37.46,7.774,41.3,5,41.316s-5.012-3.79-5-8.506L.062,8.572C.074,3.856,2.332.018,5.106,0Z" transform="translate(301.998 32.209) rotate(1)" fill="#0f7173"/>
+    <path id="Path_2" data-name="Path 2" d="M5.393.8c2.834.37,5.417,3.652,5.769,7.33l1.812,18.907c.352,3.678-1.659,6.36-4.493,5.99s-5.417-3.652-5.769-7.33L.9,6.786C.548,3.107,2.56.426,5.393.8Z" transform="matrix(0.766, 0.643, -0.643, 0.766, 326.967, 50.015)" fill="#272932"/>
+  </g>
+</svg>
